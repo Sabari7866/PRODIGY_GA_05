@@ -137,6 +137,7 @@ Use VGG16 for faster performance
 Implement multi-style blending
 
 Convert into a web application
-
 #OUTPUT
+
+
 <img width="816" height="377" alt="image" src="https://github.com/user-attachments/assets/5e49852a-e04d-4a23-bd14-648202aaaa0d" />
